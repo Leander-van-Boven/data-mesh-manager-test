@@ -1,0 +1,20 @@
+apiVersion: "v3.1.0"
+kind: "DataContract"
+id: "test-product"
+name: "Test product"
+version: "0.0.1"
+status: "draft"
+team:
+  name: "test-team"
+description:
+  purpose: "This data can be used for analytical purposes"
+servers: null
+schema:
+  - name: "table1"
+    logicalType: "object"
+    properties:
+      - name: "column1"
+        logicalType: "string"
+      - name: "column2"
+        logicalType: "number"
+domain: "test-domein"
