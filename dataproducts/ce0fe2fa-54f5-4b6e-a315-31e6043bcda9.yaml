@@ -11,4 +11,4 @@ customProperties:
   value: "source-aligned"
 - property: "visibility"
   value: "public"
-
+domain: "test-domein"
