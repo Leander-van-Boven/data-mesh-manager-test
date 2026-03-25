@@ -8,7 +8,7 @@ team:
   name: "test-team"
 description:
   purpose: "This data can be used for analytical purposes"
-servers: null
+servers: []
 schema:
   - name: "table1"
     logicalType: "object"
