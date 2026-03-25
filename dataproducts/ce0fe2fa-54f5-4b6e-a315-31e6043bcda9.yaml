@@ -12,3 +12,10 @@ customProperties:
 - property: "visibility"
   value: "public"
 domain: "test-domein"
+outputPorts:
+- name: "test-product"
+  version: "0"
+  contractId: "test-product"
+  customProperties:
+  - property: "displayName"
+    value: "Test product"
