@@ -1,7 +1,7 @@
 apiVersion: "v1.0.0"
 kind: "DataProduct"
 id: "ce0fe2fa-54f5-4b6e-a315-31e6043bcda9"
-name: "Test product"
+name: "Test product 1"
 status: "proposed"
 description: {}
 team:
